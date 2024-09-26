@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/convert.js": {
+    "convert.js": {
       "runtime": "nodejs18.x"
     }
   }
