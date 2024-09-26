@@ -1,7 +1,6 @@
 const express = require('express');
 const SpotifyWebApi = require('spotify-web-api-node');
 const { google } = require('googleapis');
-require('dotenv').config();
 
 const app = express();
 app.use(express.json());
