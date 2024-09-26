@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "convert.js": {
-      "runtime": "nodejs18.x"
-    }
-  }
-}
